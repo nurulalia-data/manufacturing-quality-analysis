@@ -56,7 +56,19 @@ Among production events with recorded defects:
 
 These findings indicate differences in failure performance across material grades, plants, and shifts within the recorded defect group.
 
-### 4. Detailed Investigation
+### 4. Quality Concerns in Events with No Recorded Defects
+
+Among the 8,403 production events with no recorded defects:
+- 1,136 events (13.52%) underwent rework despite having no recorded defect.
+- 40 reworked events failed the final inspection.
+- Another 698 events failed without undergoing rework.
+- No scrap events were recorded in this group.
+
+**Business Implication:**
+
+The presence of rework and failed production outcomes among events with no recorded defects raises questions about defect identification, recording practices, and inspection processes. Management should investigate why rework was performed when no defect was recorded and verify whether quality issues were properly documented.
+
+### 5. Detailed Investigation
 Further analysis of Grade C at Plant 1 during Night Shift revealed:
 - Failure rate: 56.67% (17 out of 30 defect events).
 - Contamination contributed the highest scrap count (3 events).
