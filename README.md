@@ -47,10 +47,14 @@ Examines production events where no defect was recorded, including pass/fail out
 
 The results show an association between rework and better pass outcomes, although they do not establish causation.
 
-### 3. Production Quality Patterns
-- Grade C recorded the highest failure rate among material grades (32.25%).
-- Plant 1 recorded the highest failure rate among plants (32.27%).
-- Night Shift recorded the highest failure rate among shifts (35.07%).
+### 3. Defect-Related Production Quality Patterns
+
+Among production events with recorded defects:
+- Grade C recorded the highest failure rate among material grades at 32.25%.
+- Plant 1 recorded the highest failure rate among plants at 32.27%.
+- Night Shift recorded the highest failure rate among shifts at 35.07%.
+
+These findings indicate differences in failure performance across material grades, plants, and shifts within the recorded defect group.
 
 ### 4. Detailed Investigation
 Further analysis of Grade C at Plant 1 during Night Shift revealed:
