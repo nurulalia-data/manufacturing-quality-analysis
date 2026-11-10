@@ -77,10 +77,14 @@ Further analysis of Grade C at Plant 1 during Night Shift revealed:
 The small sample size should be considered when interpreting these results.
 
 ## Business Recommendations
-1. Investigate contamination issues through reviews of machine cleanliness, material handling, and inspection procedures.
-2. Evaluate rework procedures and post-rework inspection effectiveness.
-3. Strengthen scrap prevention and monitor defect frequency and severity across production segments.
-4. Continue monitoring quality performance by material grade, plant, production line, and shift.
+
+1. **Investigate Contamination Issues:** Review machine cleanliness, material handling, and inspection procedures, particularly in production segments with higher contamination-related scrap.
+
+2. **Evaluate Rework Effectiveness:** Review rework procedures and post-rework inspection practices to identify factors contributing to failed outcomes despite rework.
+
+3. **Investigate Quality Issues in Events with No Recorded Defects:** Examine why 1,136 events underwent rework despite having no recorded defects, including the 40 events that failed after rework. Investigate the 698 failed events without rework to determine whether defects were missed, undocumented, or related to other process issues. Strengthen defect recording and inspection procedures to improve quality traceability.
+
+4. **Strengthen Scrap Prevention and Monitoring:** Monitor scrap rates and defect frequency across material grades, plants, production lines, and shifts. Prioritise high-risk defect types while considering event counts and sample sizes.
 
 ## Data Limitation
 The `No Recorded Defect` category represents production events where no defect was recorded in the dataset. It does not necessarily confirm that no underlying quality issue existed.
