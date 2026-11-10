@@ -86,9 +86,9 @@ The small sample size should be considered when interpreting these results.
 The `No Recorded Defect` category represents production events where no defect was recorded in the dataset. It does not necessarily confirm that no underlying quality issue existed.
 
 ## Project Files
-- Power BI dashboard (`.pbix`)
-- Cleaned dataset (`.csv`)
-- Dashboard screenshots
+- Excel dataset: `Dataset/Manufacturing_Quality_Performance_Analysis.xlsx`
+- Power BI dashboard: `PowerBI/Manufacturing_Quality_Analysis.pbix`
+- Dashboard screenshots: `Screenshots/`
 
 ## Conclusion
 This analysis highlights the importance of evaluating both defect frequency and severity when improving manufacturing quality. The findings can help management prioritise quality investigations, review rework practices, and strengthen scrap prevention efforts.
