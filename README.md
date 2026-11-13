@@ -22,17 +22,17 @@ The analysis covers 10,000 production events across different material grades, p
 ### 1. Executive Overview
 Provides a high-level summary of manufacturing quality performance.
 
-![Executive Overview](01_Executive_Overview.png)
+![Executive Overview](Screenshots/01_Executive_Overview.png)
 
 ### 2. Defect Analysis
 Examines defect frequency, pass/fail outcomes, rework performance, and scrap rates across defect categories.
 
-![Defect Analysis](02_Defect_Analysis.png)
+![Defect Analysis](Screenshots/02_Defect_Analysis.png)
 
 ### 3. No Recorded Defect Analysis
 Examines production events where no defect was recorded, including pass/fail outcomes and rework patterns.
 
-![No Recorded Defect](03_No_Recorded_Defect.png)
+![No Recorded Defect](Screenshots/03_No_Recorded_Defect.png)
 ## Key Findings
 
 ### 1. Defect Frequency vs. Scrap Severity
